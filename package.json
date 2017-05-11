@@ -1,0 +1,25 @@
+{
+  "name": "hello_npm",
+  "version": "1.0.2",
+  "description": "This is my first nmp project",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "Manh Dung",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fatherof10kids/npm-fcc.git"
+  },
+  "keywords": [
+    "display"
+  ],
+  "bugs": {
+    "url": "https://github.com/Fatherof10kids/npm-fcc/issues"
+  },
+  "homepage": "https://github.com/Fatherof10kids/npm-fcc#readme",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  }
+}
