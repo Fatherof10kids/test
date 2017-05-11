@@ -1,6 +1,6 @@
 {
   "name": "hello_npm",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "This is my first nmp project",
   "main": "index.js",
   "scripts": {
